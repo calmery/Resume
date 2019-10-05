@@ -21,7 +21,8 @@
 
 ## Experience
 
-- **ピクシブ株式会社** 東京オフィス (予定)
+- **ピクシブ株式会社** 東京オフィス (2019/10 ~ present)
+  - Ruby on Rails を用いた [pixiv コミック](https://comic.pixiv.net/)の開発，またフロントエンドを中心とした管理画面の改善，リプレイスを行なっている．
 
 ### Part-time
 
