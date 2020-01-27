@@ -52,11 +52,11 @@
 - **CSS** (SCSS, Stylus)
 - **JavaScript** (Babel, Ionic, Jest, React, TypeScript, webpack)
 - **Node.js** (Electron, Express, Ionic Native, React Native, Sequelize)
-- **Python** (Flask, Django, Pyramid)
+- **Ruby** (Ruby on Rails)
 
 ### Basic Knowledge
 
-- **Programming Language** (C, Elm, Java, PHP, Ruby (Ruby on Rails), Swift (Xcode, iOS), Unity (C#))
+- **Programming Language** (C, Elm, Java, PHP, Python (Flask, Django, Pyramid, Tornado), Swift (Xcode, iOS), Unity (C#))
 - **Database** (NoSQL (Redis), RDBMS (MySQL, Postgres))
 - **Cloud** (IaaS (ConoHa), PaaS (Heroku))
 - **Web Components** ([Elm と他のフレームワークを組み合わせる](https://qiita.com/calmery/items/d85e4755a4d0644c0610))
@@ -77,7 +77,7 @@
 
 ## Activities
 
-- [Elm入門者向けハンズオン vol2](https://elm-tokyo.connpass.com/event/94634/) メンター
+- [Elm 入門者向けハンズオン vol2](https://elm-tokyo.connpass.com/event/94634/) メンター
 - [PyCon mini Kumamoto 2017](http://kumamoto.pycon.jp/) 実行委員会メンバー
 - [JAWS FESTA 2016](https://jft2016.jaws-ug.jp/) Speaker
 - [JAWS-UG 熊本第 7 回クラウド勉強会](https://jaws-ug-kumamoto.doorkeeper.jp/events/48360) 登壇
@@ -93,4 +93,3 @@
 - **`mint-lang/guide`** [Fix type signature mistake #7](https://github.com/mint-lang/guide/pull/7)
 - **`vlang/website`** [Fix typo #8](https://github.com/vlang/website/pull/8)
 - **`xtermjs/xtermjs.org`** [Fix mistake #36](https://github.com/xtermjs/xtermjs.org/pull/36)
- 
