@@ -22,43 +22,45 @@
 ## Experience
 
 - **ピクシブ株式会社** 東京オフィス (2019/10 ~ present)
-  - Ruby on Rails を用いた [pixiv コミック](https://comic.pixiv.net/)の開発，またフロントエンドを中心とした管理画面の改善，リプレイスを行なっている．
+  - Ruby on Rails と React を用いた [pixiv コミック](https://comic.pixiv.net/)の開発、またフロントエンドを中心とした管理画面の改善、リプレイスを行なっている。
 
 ### Part-time
 
 - **ピクシブ株式会社** 福岡オフィス (2018/02 ~ 2019/09)
-  - Ionic と React Native を用いた [pixiv chatstory](https://chatstory.pixiv.net/) の Web 版と iOS 版の開発に携わった．また，短い期間ではあるが [pixivFANBOX](https://www.pixiv.net/fanbox) や [pixiv Sketch](https://sketch.pixiv.net/) の Web 版，[pixivision](https://www.pixivision.net/) の開発にも携わった．
+  - 主に [pixiv chatstory](https://chatstory.pixiv.net/) の Ionic を用いたブラウザ版と Expo、React Native を用いた iOS 版の開発を行った。Expo、React Native を用いた iOS 版の開発ではページ単位で実装を行いつつ Jest を用いたテストの整備や [Renovate](https://renovatebot.com/) の導入、`User Timing API` を用いたパフォーマンスチューニングを行った。また、他に短い期間ではあるが React を用いた [pixivFANBOX](https://www.pixiv.net/fanbox) の開発や [pixivision](https://www.pixivision.net/) の繁体字、繁体字フォント対応も行った。
 - **株式会社ナレッジコミュニケーション** 熊本支店 (2016/11 ~ 2018/01)
-  - HoloLens と Unity，Node.js を用いた視界を共有するアプリケーションの開発に携わった．
+  - HoloLens と Unity、Node.js、WebSocket を用いて視界と音声を他のデバイスとリアルタイムに共有するアプリケーションの開発を行った。
 - **合同会社プラスワンズ** (2016/08 ~ 2017/06)
-  - Django を用いた Web サービスの開発に携わった．
+  - Django を用いた Web サービスの開発を行った。
 
 ### Internship
 
 - **株式会社サイバーエージェント** CA Tech JOB (2018/10)
-  - [REQU](https://requ.ameba.jp/) の Web 版の開発に携わった．また，Atomic Design に従い Storybook や Enzyme を用いた React コンポーネントのテストを整備した上で [Renovate](https://renovatebot.com/) の導入を主導した．
+  - React を用いて [REQU](https://requ.ameba.jp/) のブラウザ版の開発を行った。また、Atomic Design に従い Storybook や Enzyme を用いた React コンポーネントのテストを整備した上で [Renovate](https://renovatebot.com/) の導入を主導した。
 - **チームラボ株式会社** チームラボサマーインターンシップ (2018/09)
 - **株式会社メルカリ** Summer Internship 2018 / Software Engineer (Frontend) (2018/08)
-  - React や [tupai.js](http://tupaijs.com/) を用いた mercari の Web 版の開発に携わった．
+  - React や [tupai.js](http://tupaijs.com/) を用いた mercari のブラウザ版の開発を行った。
 - **ピクシブ株式会社** pixiv SPRING BOOT CAMP 2018 (2018/03)
-  - PHP を用いた pixiv の開発に携わった．また，フォロー新着作品ページのデザイン改修，提案を行なった．
+  - PHP を用いた pixiv の開発とフォロー新着作品ページのデザイン改修、提案を行なった。
 - **クックパッド株式会社** 5day サービス開発インターンシップ (2017/09)
+  - クックパッドの既存のページを変更することなく料理工程の情報をスクレイピングで取得し、料理工程ごとにわかりやすく分けて表示する Web アプリを開発した。その後、Apache Cordova を用いてアプリ化まで行った。
 - **レバレジーズ株式会社** 湯けむりハッカソン (2017/09)
 - **LINE 株式会社** LINE Summer Internship 2017 (エンジニア就業コース) (2017/08)
+  - LINE GAME、[Grafana](https://grafana.com/) の API を用いて、設定ファイルによりカスタマイズ可能なダッシュボードを Elm を使って開発した。
 
 ## Skills
 
 - **HTML** (Pug)
 - **CSS** (SCSS, Stylus)
-- **JavaScript** (Babel, Ionic, Jest, React, TypeScript, webpack)
-- **Node.js** (Electron, Express, Ionic Native, React Native, Sequelize)
+- **JavaScript** (Angular, Elm, Babel, Ionic, Jest, React, TypeScript, webpack)
+- **Node.js** (Electron, Expo, Express, Ionic Native, React Native, Sequelize)
 - **Ruby** (Ruby on Rails)
 
 ### Basic Knowledge
 
-- **Programming Language** (C, Elm, Java, PHP, Python (Flask, Django, Pyramid, Tornado), Swift (Xcode, iOS), Unity (C#))
+- **Programming Language** (C, Haskell (Parsec), Java, PHP, Python (Flask, Django, Pyramid, Tornado), Swift, C# (Unity))
 - **Database** (NoSQL (Redis), RDBMS (MySQL, Postgres))
-- **Cloud** (IaaS (ConoHa), PaaS (Heroku))
+- **Cloud** (IaaS (ConoHa), PaaS (Heroku, Now))
 - **Web Components** ([Elm と他のフレームワークを組み合わせる](https://qiita.com/calmery/items/d85e4755a4d0644c0610))
 - **Docker**
 - **Unix/Linux**
@@ -84,7 +86,7 @@
 
 ## Contributions
 
-`Fix typo` しかしてない...
+`Fix typo`...:sob:
 
 - **`egison/egison`** [Fix typo #69](https://github.com/egison/egison/pull/69)
 - **`egison/www.egison.org`** [Fix style of dropdown menu #10](https://github.com/egison/www.egison.org/pull/10)
