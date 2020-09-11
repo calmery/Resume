@@ -22,7 +22,7 @@
 ## Experience
 
 - **ピクシブ株式会社** 東京オフィス (2019/10 ~ present)
-  - Ruby on Rails と React を用いた [pixiv コミック](https://comic.pixiv.net/)の開発、またフロントエンドを中心とした管理画面の改善、リプレイスを行なっている。
+  - React と Ruby on Rails を用いた [pixiv コミック](https://comic.pixiv.net/)の開発、またフロントエンドを中心とした管理画面の改善、リプレイスを行なった。その後、短い期間ではあるが OJT、[pixivFACTORY](https://factory.pixiv.net/) で Contentful を用いた開発、現在は [BOOTH](https://booth.pm/) にてフロントエンド周りの改善を進めている。
 
 ### Part-time
 
