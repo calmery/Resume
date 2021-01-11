@@ -52,8 +52,8 @@
 
 - **HTML** (Pug)
 - **CSS** (SCSS, Stylus)
-- **JavaScript** (Angular, Elm, Babel, Ionic, Jest, React, TypeScript, webpack)
-- **Node.js** (Electron, Expo, Express, Ionic Native, React Native, Sequelize)
+- **JavaScript** (Angular, Elm, Babel, Ionic, Jest, Next.js, React, TypeScript, webpack)
+- **Node.js** (Electron, Expo, Express, Ionic Native, NestJS, Prisma, React Native, Sequelize)
 - **Ruby** (Ruby on Rails)
 
 ### Basic Knowledge
